@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ricardo Ildefonso (@RIldefonso)
 - 👀 I’m interested in modern web projects
-- 🌱 I’m currently learning Python/Django
 - 💞️ I’m looking to collaborate on Visual Studio Extentions
 - 📫 How to reach me: RIldefonso in Skype
 
